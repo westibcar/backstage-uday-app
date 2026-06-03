@@ -4,9 +4,9 @@ metadata:
   name: uday-app
   description: Aplicacao de cadastro
   annotations:
-    github.com/project-slug: backstage/backstage
+    github.com/project-slug: westibcar/backstage-uday-app
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: website
-  owner: wesley@uday.com.br
+  owner: guests
   lifecycle: experimental
