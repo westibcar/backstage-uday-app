@@ -9,5 +9,5 @@ metadata:
 spec:
   type: website
   system: platform-cadastro
-  owner: guests
+  owner: default/guests
   lifecycle: experimental
