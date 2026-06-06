@@ -8,6 +8,6 @@ metadata:
     # backstage.io/techdocs-ref: dir:.
 spec:
   type: website
-  system: default/platform-cadastro
+  system: platform-cadastro
   owner: default/guests
   lifecycle: experimental
